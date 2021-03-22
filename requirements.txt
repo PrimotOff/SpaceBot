@@ -1,0 +1,7 @@
+discord.py
+Pillow
+requests
+wikipedia
+dnspython
+python-dateutil
+
